@@ -1,5 +1,4 @@
-## Morse Code
-
+## Binary Code
 Use the /binary `<text>` command to translate text into binary <br>
 Use the /unbinary `<binary sequence>` command to translate binary to text
 
